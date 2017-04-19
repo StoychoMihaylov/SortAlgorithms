@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\Algoritms\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Stoycho\Desktop\Algoritms\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Stoycho\Desktop\Algoritms\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Stoycho\Desktop\Algoritms\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\Algoritms\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Stoycho\Desktop\Algoritms\BubbleSort\obj\Debug\BubbleSort.pdb
